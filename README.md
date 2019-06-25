@@ -8,4 +8,4 @@ The data visualizations displayed are from the weather API project (using Pandas
 
 Link to navigate the weather API website: https://kristibischoff.github.io/weather_it.html
 
-![Web_preview](Web_preview/web_preview.png)
+![Web_preview](Web_preview.png)
